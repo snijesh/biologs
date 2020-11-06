@@ -28,7 +28,7 @@ DEGs:  775 (Protein Coding) p value = 0.05, logFC 1<br>
 
 
 #### Comparison
-<img src='diabetes_obesity.png'>
+<img src='diabetes_obesity.png' width=400>
 
 
 #### Next Plans
