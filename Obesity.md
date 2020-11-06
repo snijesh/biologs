@@ -1,6 +1,3 @@
-```python
-### 
-```
 
 ### Objective:
 
@@ -34,17 +31,18 @@ DEGs:  775 (Protein Coding) p value = 0.05, logFC 1<br>
 <img src='diabetes_obesity.png'>
 
 
+#### Next Plans
+1. Construct Network among the common DEGs of obesity and diabetes
+2. Create clusters using Kmeans or MCODE
+3. Perform functional Enrichment with clusters obtained from kmeans
+4. Overlap with KEGG for T2D and obesity pathways
+5. Perform tissue specific analysis. [Adipocyte and Pancreas]
+6. Perform Druggability analysis
+7. Mapping with known obesity & T2D genes to check availability of novel players.
+
 ```python
 
 
 ```
 
 
-```python
-
-```
-
-
-```python
-
-```
